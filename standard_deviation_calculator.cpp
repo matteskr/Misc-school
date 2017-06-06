@@ -1,10 +1,3 @@
-/*
-Name: Kevin Mattes
-MacID: matteskr
-Student Number: 1420778
-Description: This program calculates the average and stnd dev of user inputs
-*/
-
 
 #include <cmath>
 #include <iostream>
