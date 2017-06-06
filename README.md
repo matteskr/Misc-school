@@ -1,2 +1,2 @@
 # Misc-school
-Just another repository to hold various school assignements
+Just another repository to hold various school assignements.
