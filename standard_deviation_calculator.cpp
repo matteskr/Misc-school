@@ -1,4 +1,3 @@
-
 #include <cmath>
 #include <iostream>
 #include <vector>              // including appropriate librairy's
